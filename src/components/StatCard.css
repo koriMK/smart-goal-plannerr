@@ -1,0 +1,20 @@
+
+.stat-card {
+  background-color: white;
+  border-radius: var(--border-radius);
+  padding: 1.5rem;
+  box-shadow: var(--box-shadow);
+  text-align: center;
+}
+
+.stat-card h3 {
+  font-size: 1.2rem;
+  margin-bottom: 0.5rem;
+  color: var(--light-text);
+}
+
+.stat-card p {
+  font-size: 1.8rem;
+  font-weight: 700;
+  color: var(--primary-color);
+}
